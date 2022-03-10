@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i53ea2mdL0q48x897+CJIj3hVur5oqg2HaQPMvycNDvLZ+aQ47acgnEt6waidlVfBH7W0C6g35WcF5/bkQyNSw==",
+  "dgSpecHash": "4XdjoweIch/3/aBSoVoDUrI8mSsP3sjLw+Vg1vg/pOlR5+6lMhDkXNlWEFsLO3TrArknZTuVu399ax3KlXTPeA==",
   "success": true,
-  "projectFilePath": "D:\\Cursos\\Alura\\CSharp\\Strings\\Strings.csproj",
+  "projectFilePath": "D:\\Cursos\\Alura\\CSharp\\introducao-regex\\Strings.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

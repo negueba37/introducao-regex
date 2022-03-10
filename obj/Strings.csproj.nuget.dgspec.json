@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cursos\\Alura\\CSharp\\Strings\\Strings.csproj": {}
+    "D:\\Cursos\\Alura\\CSharp\\introducao-regex\\Strings.csproj": {}
   },
   "projects": {
-    "D:\\Cursos\\Alura\\CSharp\\Strings\\Strings.csproj": {
+    "D:\\Cursos\\Alura\\CSharp\\introducao-regex\\Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cursos\\Alura\\CSharp\\Strings\\Strings.csproj",
+        "projectUniqueName": "D:\\Cursos\\Alura\\CSharp\\introducao-regex\\Strings.csproj",
         "projectName": "Strings",
-        "projectPath": "D:\\Cursos\\Alura\\CSharp\\Strings\\Strings.csproj",
+        "projectPath": "D:\\Cursos\\Alura\\CSharp\\introducao-regex\\Strings.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "D:\\Cursos\\Alura\\CSharp\\Strings\\obj\\",
+        "outputPath": "D:\\Cursos\\Alura\\CSharp\\introducao-regex\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
